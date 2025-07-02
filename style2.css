@@ -9,10 +9,9 @@ body{
     align-items: center;
     justify-content: center;
     padding: 20px;
-    background-color: blueviolet;
+    background: url(./assets/G7CHocPDfEqzHbxVZiVNjA.jpg);
 }
 .register-container{
-    background: white;
     max-width: 700px;
     width: 100%;
     padding:25px;
@@ -29,7 +28,8 @@ body{
     margin-top: 20px;
 }
 .box label{
-    color: rgb(190, 7, 7);
+    color: black;
+    font-size: 1.3rem;
 }
 .form .box input{
     position: relative;
@@ -51,7 +51,7 @@ body{
     margin-top: 20px;
 }
 .gender-box h3{
-    color: rgb(190, 7, 7);
+    color:black;
     font-size: 1rem;
     font-weight: 400;
     margin-bottom: 8px;
